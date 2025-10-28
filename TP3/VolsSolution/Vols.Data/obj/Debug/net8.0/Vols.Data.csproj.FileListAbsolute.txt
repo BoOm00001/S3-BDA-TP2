@@ -1,0 +1,14 @@
+D:\Session3\BDAvance\VolsSolution\Vols.Data\bin\Debug\net8.0\Vols.Data.deps.json
+D:\Session3\BDAvance\VolsSolution\Vols.Data\bin\Debug\net8.0\Vols.Data.runtimeconfig.json
+D:\Session3\BDAvance\VolsSolution\Vols.Data\bin\Debug\net8.0\Vols.Data.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Data\bin\Debug\net8.0\Vols.Data.pdb
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\Vols.Data.csproj.AssemblyReference.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\Vols.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\Vols.Data.AssemblyInfoInputs.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\Vols.Data.AssemblyInfo.cs
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\Vols.Data.csproj.CoreCompileInputs.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\Vols.Data.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\refint\Vols.Data.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\Vols.Data.pdb
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\Vols.Data.genruntimeconfig.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Data\obj\Debug\net8.0\ref\Vols.Data.dll

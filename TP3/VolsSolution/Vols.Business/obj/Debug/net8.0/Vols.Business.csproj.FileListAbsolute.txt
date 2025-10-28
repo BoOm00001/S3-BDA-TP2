@@ -1,0 +1,15 @@
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.Business.deps.json
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.Business.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.Business.pdb
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.Data.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.Data.pdb
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.Business.csproj.AssemblyReference.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.Business.AssemblyInfoInputs.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.Business.AssemblyInfo.cs
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.Business.csproj.CoreCompileInputs.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.Bus.652F3CAA.Up2Date
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.Business.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\refint\Vols.Business.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.Business.pdb
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\ref\Vols.Business.dll

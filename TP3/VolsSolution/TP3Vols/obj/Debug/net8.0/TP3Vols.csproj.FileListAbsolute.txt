@@ -1,0 +1,14 @@
+D:\Session3\BDAvance\VolsSolution\TP3Vols\bin\Debug\net8.0\TP3Vols.exe
+D:\Session3\BDAvance\VolsSolution\TP3Vols\bin\Debug\net8.0\TP3Vols.deps.json
+D:\Session3\BDAvance\VolsSolution\TP3Vols\bin\Debug\net8.0\TP3Vols.runtimeconfig.json
+D:\Session3\BDAvance\VolsSolution\TP3Vols\bin\Debug\net8.0\TP3Vols.dll
+D:\Session3\BDAvance\VolsSolution\TP3Vols\bin\Debug\net8.0\TP3Vols.pdb
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\TP3Vols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\TP3Vols.AssemblyInfoInputs.cache
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\TP3Vols.AssemblyInfo.cs
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\TP3Vols.csproj.CoreCompileInputs.cache
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\TP3Vols.dll
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\refint\TP3Vols.dll
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\TP3Vols.pdb
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\TP3Vols.genruntimeconfig.cache
+D:\Session3\BDAvance\VolsSolution\TP3Vols\obj\Debug\net8.0\ref\TP3Vols.dll

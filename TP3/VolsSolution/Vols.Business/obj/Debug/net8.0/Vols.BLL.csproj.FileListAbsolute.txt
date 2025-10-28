@@ -1,0 +1,15 @@
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.BLL.deps.json
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.BLL.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.BLL.pdb
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.DAL.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Business\bin\Debug\net8.0\Vols.DAL.pdb
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.BLL.csproj.AssemblyReference.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.BLL.AssemblyInfoInputs.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.BLL.AssemblyInfo.cs
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.BLL.csproj.CoreCompileInputs.cache
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.BLL.csproj.Up2Date
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.BLL.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\refint\Vols.BLL.dll
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\Vols.BLL.pdb
+D:\Session3\BDAvance\VolsSolution\Vols.Business\obj\Debug\net8.0\ref\Vols.BLL.dll
